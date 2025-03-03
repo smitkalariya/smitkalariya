@@ -24,20 +24,20 @@ Frontend
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" height="50">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" alt="jQuery Logo" width="50" height="50">
+<img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png" alt="jQuery Logo" width="50" height="50">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/AJAX_logo_by_gengns.svg" alt="AJAX Logo" width="50" height="50">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="50" height="50">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB Logo" width="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon.svg" alt="MongoDB Logo" width="50" height="50">
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="50" height="50">
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="50" height="50">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform Logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform Logo" width="100" height="100">
 
 
 
