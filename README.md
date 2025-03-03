@@ -3,7 +3,19 @@
 🚀 Software Engineer | Full Stack Developer
 📍 Ahmedabad, India
 📧 Email: smitkalariya3009@gmail.com
-:link: 
+:link: https://github.com/smitkalariya
+
+
+About 
+
+Experienced Full Stack Developer with over two years of expertise in designing and developing scalable web applications. Skilled in delivering high-quality, innovative, and performance-driven solutions. Proficient in creating interactive, user-friendly UIs that enhance user experience. Proven track record of solving complex challenges, meeting project deadlines, exceeding client expectations, and adapting to evolving technical requirements.
+
+Tech Stack
+
+Frontend
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
 
 <!--
 **smitkalariya/smitkalariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
