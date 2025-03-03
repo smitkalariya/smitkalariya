@@ -1,5 +1,7 @@
 ## Heyy There !! 👋, I'm Smit Kalariya 👨‍💻
 
+🚀 Software Engineer | Full Stack Developer
+
 <!--
 **smitkalariya/smitkalariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
