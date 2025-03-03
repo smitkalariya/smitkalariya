@@ -16,6 +16,9 @@ Frontend
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
 
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+
+
 
 
 
