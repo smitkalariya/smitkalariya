@@ -25,7 +25,6 @@ Experienced Full Stack Developer with over two years of expertise in designing a
 
 
 
-
 | ![Language](https://img.shields.io/badge/Language-%F0%9F%9A%80-orange?style=for-the-badge&logoWidth=150) | ![Database](https://img.shields.io/badge/Database-%F0%9F%9A%80-purple?style=for-the-badge&logoWidth=150) | ![Cloud & Other](https://img.shields.io/badge/Cloud%20&%20Other-%F0%9F%9A%80-cyan?style=for-the-badge&logoWidth=150) |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="60" height="60"> <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jQuery Logo" width="60" height="60"> | <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB Logo" width="120" height="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="60" height="60"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform Logo" width="60" height="60"> |
