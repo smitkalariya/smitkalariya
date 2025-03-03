@@ -14,7 +14,8 @@ Tech Stack
 
 Frontend
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![Python Logo](https://www.python.org/static/opengraph-icon-200x200.png)
+
 
 
 <!--
