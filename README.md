@@ -1,5 +1,12 @@
 
-<h1 align="center">Heyy There !! 👋, I'm Smit Kalariya 👨‍💻</h1>
+<h1 align="center">Heyy There !! <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/> , I'm Smit Kalariya 👨‍💻</h1>
+
+
+About 
+
+Glad to see you here! 
+
+I'm a full-stack engineer passionate about making open-source more accessible, and leveraging technology to empower people. With over two years of experience, I specialize in designing and developing scalable web applications. I enjoy working with ReactJS, Next.js, JavaScript, APIs, and Markup to create high-quality, innovative, and performance-driven solutions with interactive, user-friendly UIs that enhance user experience.
 
 <ul>
   <li>🚀 Software Engineer | Full Stack Developer</li>
@@ -11,9 +18,9 @@
 ![Demo](https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/coding.gif)
 
 
-About 
 
-Experienced Full Stack Developer with over two years of expertise in designing and developing scalable web applications. Skilled in delivering high-quality, innovative, and performance-driven solutions. Proficient in creating interactive, user-friendly UIs that enhance user experience. Proven track record of solving complex challenges, meeting project deadlines, exceeding client expectations, and adapting to evolving technical requirements.
+
+
 
 
 
