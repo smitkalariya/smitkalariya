@@ -1,6 +1,9 @@
 ## Heyy There !! 👋, I'm Smit Kalariya 👨‍💻
 
 🚀 Software Engineer | Full Stack Developer
+📍 Ahmedabad, India
+📧 Email: smitkalariya3009@gmail.com
+:link: 
 
 <!--
 **smitkalariya/smitkalariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
