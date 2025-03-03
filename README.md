@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyy There !! 👋, I'm Smit Kalariya 👨‍💻
 
 <!--
 **smitkalariya/smitkalariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
