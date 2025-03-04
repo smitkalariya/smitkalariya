@@ -8,17 +8,29 @@ Glad to see you here!
 
 I'm a full-stack engineer passionate about making open-source more accessible, and leveraging technology to empower people. With over two years of experience, I specialize in designing and developing scalable web applications. I enjoy working with ReactJS, Next.js, JavaScript, APIs, and Markup to create high-quality, innovative, and performance-driven solutions with interactive, user-friendly UIs that enhance user experience.
 
-<ul>
-  <li>🚀 Software Engineer | Full Stack Developer</li>
-  <li>📍 Ahmedabad, India</li>
-  <li>📧 Email: smitkalariya3009@gmail.com</li>
-  <li>:link: https://github.com/smitkalariya</li>
-</ul>
-
-![Demo](https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/coding.gif)
 
 
+<h2>🚀 Software Engineer | Full Stack Developer <h6>📍 Ahmedabad, Indiaaa </h6> </h2>
 
+<img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/coding.gif" width="300">
+
+- 🏗️ I’m currently working on Web Development  
+- 🤝 Happy to collaborate on any project idea.  
+- 🧩 Passionate about solving real-life problems through technology  
+- 🏸 Beyond Coding - Love to play badminton and read self-help books.  
+- 🌍 Eager to explore and experience new places  
+
+
+
+
+
+
+
+
+Resume: resume link
+  
+  📧 Email: smitkalariya3009@gmail.com
+  :link: https://github.com/smitkalariya<
 
 
 
