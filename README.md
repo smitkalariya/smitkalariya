@@ -22,7 +22,7 @@
 - 🏸 Beyond Coding - Love to play badminton and read self-help books.  
 - 🌍 Eager to explore and experience new places
 
--  <img src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/doc.gif" alt="Letterbox Animation" width="20">  Resume - <a href="your-resume-link.pdf" target="_blank">Resume</a>
+-  <img src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/doc.gif" alt="Letterbox Animation" width="20">  Resume - <a href="https://smitkalariya.github.io/Resume" target="_blank">Resume</a>
 
 
 <br><br>
