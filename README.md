@@ -2,15 +2,16 @@
 <h1 align="center">Heyy There !! <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/> , I'm Smit Kalariya 👨‍💻</h1>
 
 
-About 
-
-Glad to see you here! 
-
-I'm a full-stack engineer passionate about making open-source more accessible, and leveraging technology to empower people. With over two years of experience, I specialize in designing and developing scalable web applications. I enjoy working with ReactJS, Next.js, JavaScript, APIs, and Markup to create high-quality, innovative, and performance-driven solutions with interactive, user-friendly UIs that enhance user experience.
+## Glad to see you here! 
 
 
 
-<h2>🚀 Software Engineer | Full Stack Developer <h6>📍 Ahmedabad, Indiaaa </h6> </h2>
+<body>I'm a <del>front</del> <b>full-stack engineer</b> passionate about making open-source more accessible, and leveraging technology to empower people. With over two years of experience, I specialize in designing and developing scalable web applications. I enjoy working with ReactJS, Next.js, JavaScript, APIs, and Markup to create high-quality, innovative, and performance-driven solutions with interactive, user-friendly UIs that enhance user experience.</body>
+
+<br>
+
+
+<h2>🚀 Software Engineer | Full Stack Developer <h6>📍 Ahmedabad, India </h6> </h2>
 
 <img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/coding.gif" width="300">
 
@@ -18,23 +19,13 @@ I'm a full-stack engineer passionate about making open-source more accessible, a
 - 🤝 Happy to collaborate on any project idea.  
 - 🧩 Passionate about solving real-life problems through technology  
 - 🏸 Beyond Coding - Love to play badminton and read self-help books.  
-- 🌍 Eager to explore and experience new places  
+- 🌍 Eager to explore and experience new places
+
+-  <img src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/doc.gif" alt="Letterbox Animation" width="20">  Resume - 
 
 
-
-
-
-
-
-
-Resume: resume link
+<br><br>
   
-  📧 Email: smitkalariya3009@gmail.com
-  :link: https://github.com/smitkalariya<
-
-
-
-
 
 ![🚀 Tech Stack](https://img.shields.io/badge/🚀_Tech_Stack-blueviolet?style=for-the-badge&logoWidth=200)
 
@@ -49,30 +40,23 @@ Resume: resume link
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="60" height="60"> <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jQuery Logo" width="60" height="60"> | <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB Logo" width="120" height="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="60" height="60"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform Logo" width="60" height="60"> |
 
+<br>
+
+
+## 🏆 Certifications
+![AWS Certified Practitioner](https://img.shields.io/badge/AWS%20Certified-Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![AWS AI Practitioner](https://img.shields.io/badge/AWS%20AI-Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![HashiCorp Certified - Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
+
+<br>
+
+ ## 📩 Let's Connect  
+ 
+ ![Gmail](https://img.shields.io/badge/Gmail-smitkalariya3009%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;&nbsp;<a href="https://www.instagram.com/smit-kalariya-3009/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/smit-kalariya-3009/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30"></a>
 
 
 
 
 
-
-
-
-
-
-
-
-
-<!--
-**smitkalariya/smitkalariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
