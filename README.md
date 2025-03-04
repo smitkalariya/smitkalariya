@@ -7,16 +7,10 @@
 
 
 <body>I'm a <del>front</del> <b>full-stack engineer</b> passionate about making open-source more accessible, and leveraging technology to empower people. With over two years of experience, I specialize in designing and developing scalable web applications. I enjoy working with ReactJS, Next.js, JavaScript, APIs, and Markup to create high-quality, innovative, and performance-driven solutions with interactive, user-friendly UIs that enhance user experience.</body>
-
-<be>
-<div>
-  <h2>🚀 Software Engineer | Full Stack Developer <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitkalariya&label=Profile%20views&color=0e75b6&style=flat" alt="smitkalariya" /> </p></h2>
-  <p>📍 Ahmedabad, India</p>
-</div>
+<br><br>
 
 
-## 🚀 Software Engineer | Full Stack Developer  
-📍 Ahmedabad, India
+## 🚀 **Software Engineer | Full Stack Developer** <br> **<sub>📍 Ahmedabad, India</sub>**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitkalariya&label=Profile%20views&color=0e75b6&style=flat" alt="smitkalariya" /> </p>
 
