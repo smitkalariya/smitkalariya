@@ -8,10 +8,17 @@
 
 <body>I'm a <del>front</del> <b>full-stack engineer</b> passionate about making open-source more accessible, and leveraging technology to empower people. With over two years of experience, I specialize in designing and developing scalable web applications. I enjoy working with ReactJS, Next.js, JavaScript, APIs, and Markup to create high-quality, innovative, and performance-driven solutions with interactive, user-friendly UIs that enhance user experience.</body>
 
-<br>
+<be>
+<div>
+  <h2>🚀 Software Engineer | Full Stack Developer <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitkalariya&label=Profile%20views&color=0e75b6&style=flat" alt="smitkalariya" /> </p></h2>
+  <p>📍 Ahmedabad, India</p>
+</div>
 
 
-<h2>🚀 Software Engineer | Full Stack Developer <h6>📍 Ahmedabad, India </h6> </h2>
+## 🚀 Software Engineer | Full Stack Developer  
+📍 Ahmedabad, India
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitkalariya&label=Profile%20views&color=0e75b6&style=flat" alt="smitkalariya" /> </p>
 
 <img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/coding.gif" width="300">
 
@@ -52,11 +59,21 @@
 
 <br>
 
- ## 📩 Let's Connect  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=smitkalariya&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=smitkalariya&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smitkalariya&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=smitkalariya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## 📩 Let's Connect  
  
  ![Gmail](https://img.shields.io/badge/Gmail-smitkalariya3009%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;&nbsp;<a href="https://www.instagram.com/smit-kalariya-3009/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/smit-kalariya-3009/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30"></a>
 
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
